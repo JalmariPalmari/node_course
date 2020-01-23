@@ -1,0 +1,8 @@
+{
+    "name": "templateapp",
+    "description": "Express app which templates pages and routes",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "4.x"
+    }
+}

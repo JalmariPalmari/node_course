@@ -1,0 +1,11 @@
+{
+  "name": "test_codes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "~/node_modules/mocha/bin/mocha"
+  },
+  "keywords": [],
+  "author": "Juha Peltomäki",
+  "license": "ISC"
+}
